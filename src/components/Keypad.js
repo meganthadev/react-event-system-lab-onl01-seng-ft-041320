@@ -1,6 +1,7 @@
 import React from 'react';
 
 class Keypad extends React.Component {
+  
   pwrd = () => { 
     console.log("Entering password...")
   }
